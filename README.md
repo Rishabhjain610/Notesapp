@@ -1,3 +1,7 @@
+<h2>📽️ Live Video Demo</h2>
+<p>Watch the demo below:</p>
+
+https://github.com/user-attachments/assets/b836f360-04c8-4d48-bb1b-ca53051e250a
 <h1>📝 NotesApp</h1>
 
 <p>Welcome to NotesApp, your ultimate digital notebook! Built with the MERN (MongoDB, Express.js, React.js, Node.js) stack, NotesApp offers a seamless and efficient way to organize your thoughts, tasks, and ideas with real-time updates and a user-friendly experience.</p>
@@ -32,8 +36,5 @@
     <li>5️⃣ Enjoy a <strong>fast, secure, and smooth note-taking experience!</strong> 🚀</li>
 </ul>
 
-<h2>📽️ Live Video Demo</h2>
-<p>Watch the demo below:</p>
 
-https://github.com/user-attachments/assets/b836f360-04c8-4d48-bb1b-ca53051e250a
 
